@@ -1,0 +1,143 @@
+.left{
+
+  height: 500px;
+    width: 200px;
+  border-style: groove;
+}
+.right{
+  border-style: groove;
+  height: 500px;
+  width: 1500px;
+}
+.lt{
+text-align: center;
+}
+.first_book{
+  height: 250px;
+  width: auto;
+  border-style: groove;
+
+}
+.fbi{
+  height: 240px;
+  width: 200px;
+}
+.fi{
+  width: 200px;
+  height: 240px;
+  border-style: double;
+}
+.fl{
+  width: 1000px;
+  height: 40px;
+  margin-top: -120px;
+}
+.fm{
+  height: 100px;
+  width: 1000px;
+  background: white;
+  font-size:
+}
+.fr{
+
+  margin-left: 700px;
+  width: 350px;
+  height: 200px;
+  margin-top: -160px;
+  margin-bottom: -150px;
+}
+.fml{
+  margin-bottom: 0px;
+}
+.btn {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #ed7676);
+  background-image: -moz-linear-gradient(top, #ff0000, #ed7676);
+  background-image: -ms-linear-gradient(top, #ff0000, #ed7676);
+  background-image: -o-linear-gradient(top, #ff0000, #ed7676);
+  background-image: linear-gradient(to bottom, #ff0000, #ed7676);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f7f7f7;
+  background-image: -webkit-linear-gradient(top, #f7f7f7, #0d00ff);
+  background-image: -moz-linear-gradient(top, #f7f7f7, #0d00ff);
+  background-image: -ms-linear-gradient(top, #f7f7f7, #0d00ff);
+  background-image: -o-linear-gradient(top, #f7f7f7, #0d00ff);
+  background-image: linear-gradient(to bottom, #f7f7f7, #0d00ff);
+  text-decoration: none;
+}
+.second_book{
+  height: 250px;
+  width: auto;
+  background-color: white;
+  border-style: groove;
+}
+.sbi{
+  height: 240px;
+  width: 200px;
+}
+
+.sl{
+  width: 1000px;
+  height: 40px;
+  margin-top: -120px;
+}
+.sm{
+  height: 100px;
+  width: 1000px;
+  background: white;
+  font-size:
+}
+.sr{
+
+  margin-left: 700px;
+  width: 350px;
+  height: 200px;
+  margin-top: -160px;
+  margin-bottom: -150px;
+}
+.sml{
+  margin-bottom: 0px;
+}
+
+.third_book{
+  height: 250px;
+  width: auto;
+  border-style: groove;
+}
+
+.four_book{
+  height: 150px;
+  width: auto;
+  background-color: orange;
+}
+.fobi{
+  height: 240px;
+  width: 200px;
+  background-color: green;
+}
+.five_book{
+  height: 250px;
+  width: auto;
+  background-color: blue;
+}
+.tbi{
+  background-color: black;
+  height: 240px;
+  width: 200px;
+}
+.end_b{
+  width: auto;
+  margin-top: 0px;
+  background-color: brown;
+  height: 50px;
+}

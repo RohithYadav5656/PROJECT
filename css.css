@@ -1,0 +1,138 @@
+.klu_cse{
+width: 420px;
+text-align: left;
+height: 80px;
+float: left;
+}
+
+.Heading{
+  text-align:center;
+  padding-top: 15px;
+  position:relative;
+    margin-right: 300px;
+  color: darkred;
+  font-size: 40px;
+  margin-bottom: 10;
+}
+.Menu{
+  padding: 0  ;
+  margin: 0;
+  background-color: white;
+  width: auto;
+  height: 20px;
+  color: red;
+}
+h3{
+  color: brown;
+  margin-top: 0px;
+  display:inline-block;
+}
+/* h3:hover{
+  border-radius: 5px;
+  display:inline-block block;
+  background-color: #FAD4D4;
+} */
+
+hr{
+margin: 0;
+padding: 0;
+}
+.Home{
+  padding: 0;
+  margin: 0;
+    text-decoration: none;
+    color: red;
+    display: inline-block;
+    padding-right: 20px;
+}
+.Home:hover{
+  color: blue;
+
+}
+.Book{
+  text-decoration: none;
+  color: red;
+    display: inline-block;
+    padding-right: 20px;
+}
+.Book:hover{
+  color: blue;
+}
+.reg{
+  text-decoration: none;
+  color: red;
+   display: inline-block;
+    padding-right: 20px;
+}
+.reg:hover{
+  color: blue;
+}
+.log{
+  text-decoration: none;
+  color: red;
+  display: inline-block;
+    padding-right: 20px;
+}
+.log:hover{
+  color: blue;
+}
+.fs{
+background-color: #FFF2F2;
+}
+.img_sli{
+  width: 980px;
+  margin-top: 10px;
+  height: 380px;
+  background-image: url('https://www.kluniversity.in/lib/img/1new.png');
+  margin-left: 15%;
+  box-shadow: 2px 2px 10px black;
+  animation: slider 20s infinite ;
+}
+@keyframes slider {
+0%{ background-image: url('https://www.kluniversity.in/lib/img/1new.png');background-size: auto;}
+33%{ background-image: url('https://www.kluniversity.in/lib/img/3new.png    ');background-size: auto;}
+66%{ background-image: url('https://www.kluniversity.in/lib/img/img-new.png');}
+}
+/*========================================================================================================================*/
+.rule{
+  border-style: groove;
+
+}
+.rule_head{
+  font-size: 50px;
+}
+.lr{
+  margin-left: 25%;
+  margin-right: 25%;
+  border-style: groove;
+  width: 800px;
+}
+.ml{
+  margin-left: 25%;
+  margin-right: 25%;
+  border-style: groove;
+  width: 800px;
+}
+/*=========================================================================================================================*/
+.table_c{
+  border: 2px;
+  margin-left: 22%;
+  margin-right: 15%;
+border-style: double;
+}
+.table{
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 800px;
+  border-style: groove;
+}
+.end{
+  width: auto;
+  margin-top: 0;
+  background-color: brown;
+  height: 50px;
+}
+.en{
+  color: white;
+  margin-top: 20px;
+}

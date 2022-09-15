@@ -1,0 +1,114 @@
+.Login_area{
+position: relative;
+margin-left: 35%;
+margin-bottom: 0px;
+border-style:  groove;
+  background-color: white;
+  height: 385px;
+  width: 450px;
+}
+.klu_logo{
+  height: 70px;
+  width: 70px;
+}
+.fs{
+  border-top: 0;
+}
+.klu_heading{
+  height: 0;
+
+  width: auto;
+  position: relative;
+  border-radius: 100px;
+}
+
+.klu_head_end{
+  height: 70px;
+  width: auto;
+  background-color:#990000;
+
+}
+.login{
+  margin-left: 5%;
+  width: 90%;
+  margin-top: 10px;
+  height: 270px;
+
+}
+.id_pass{
+  text-align: left;
+  width: auto;
+  font-size: 150%;
+  font-style: normal;
+}
+.id_pass_inp{
+  width: 98%;
+  height: 20px;
+}
+input{
+  width: auto;
+  width: 100;
+}
+.cap{
+  height: 50px;
+  width: 120px;
+background-position: left;
+}
+/* .capt{
+} */
+.cp_te{
+background-position: right;
+}
+.acc{
+  position: absolute;
+  margin-top: 10px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.ending{
+  height: 20px;
+  width: auto;
+  margin-top: 0px;
+  background-color:#990000;
+}
+.en{
+
+  text-align: center;
+  color: white;
+}
+#loginform-captcha{
+  position:absolute;
+  margin-top: 15px;
+  margin-left: 0;
+  float: right;
+}
+.end_log{
+  width: auto;
+  margin-top: 190px;
+  background-color: brown;
+  height: 50px;
+}
